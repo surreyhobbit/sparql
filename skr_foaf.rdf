@@ -1,0 +1,35 @@
+<rdf:RDF
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:foaf="http://xmlns.com/foaf/0.1/"
+      xmlns:admin="http://webns.net/mvcb/">
+<foaf:PersonalProfileDocument rdf:about="">
+  <foaf:maker rdf:resource="#me"/>
+  <foaf:primaryTopic rdf:resource="#me"/>
+  <admin:generatorAgent rdf:resource="http://www.ldodds.com/foaf/foaf-a-matic"/>
+  <admin:errorReportsTo rdf:resource="mailto:leigh@ldodds.com"/>
+</foaf:PersonalProfileDocument>
+<foaf:Person rdf:ID="me">
+	<foaf:name>Steffen Krause</foaf:name>
+	<foaf:title>Mr</foaf:title>
+	<foaf:givenname>Steffen</foaf:givenname>
+	<foaf:family_name>Krause</foaf:family_name>
+	<foaf:mbox_sha1sum>b511416ddaf599245d7fc940573e4ce19b3c2593</foaf:mbox_sha1sum>
+	<foaf:homepage rdf:resource="http://http://www.adweko.com/en/company/management.html"/>
+	<foaf:depiction rdf:resource="http://www.adweko.com/uploads/tx_news/SteffenKrause_02.jpg"/>
+	<foaf:phone rdf:resource="tel:+447748777754"/>
+	<foaf:workplaceHomepage rdf:resource="http://www.adweko.com"/>
+	<foaf:knows>
+		<foaf:Person>
+			<foaf:name>Hans-Christian Brockmann</foaf:name>
+			<foaf:mbox_sha1sum>59b10b904a563c36ccfe139e6eb0f59c5dc1718f</foaf:mbox_sha1sum>
+		</foaf:Person>
+	</foaf:knows>
+	<foaf:knows>
+		<foaf:Person>
+			<foaf:name>Marty Loughlin</foaf:name>
+			<foaf:mbox_sha1sum>dca6b778d707849fd2acbf3c74351ab05553fc01</foaf:mbox_sha1sum>
+		</foaf:Person>
+	</foaf:knows>
+</foaf:Person>
+</rdf:RDF>

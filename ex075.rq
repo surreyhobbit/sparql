@@ -1,0 +1,14 @@
+# filenam ex075.rq
+# combine different search conditions
+# use pipe to combine different predicates when the data quality doesn't line up perfectly
+# see data in ex074.ttl
+
+PREFIX c: <http://learningsparql.com/ns/papers#>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?s ?title
+WHERE
+{
+	?s (dc:title | rdfs:label) ?title .
+}

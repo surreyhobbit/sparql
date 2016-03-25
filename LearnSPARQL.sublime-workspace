@@ -1,0 +1,167 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 327.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/swkrause/home/sparql/ex002.ttl.erl",
+		"/etc/paths",
+		"/Users/swkrause/Downloads/data.n3",
+		"/Users/swkrause/home/linux/Vagrantfile",
+		"/Users/swkrause/Desktop/Logos/mbb .svg",
+		"/Users/swkrause/config.php",
+		"/Users/swkrause/home/python/create_hana_table.sql",
+		"/Users/swkrause/Desktop/ras_results.csv",
+		"/Users/swkrause/Desktop/if_statements.py",
+		"/Users/swkrause/home/PBC-London/recipe.md",
+		"/Volumes/home/Documents/40 SAP Products/01 Banking Services/02 Analytical Banking/01_Bank Analyzer__/02_Basel II Solution_/07_BOI_specific/Module ZDR_COREP_CR_BOI1",
+		"/Users/swkrause/Downloads/SAP Userprogs/saplogon",
+		"/Users/swkrause/Dropbox/00 Infonavit/schemas/sample-SchemaData/SchemaData-accounting.xml",
+		"/Users/swkrause/Downloads/NOOBS_v1_4_1/os/Raspbian/os.json",
+		"/Users/swkrause/Dropbox/00 Aval/AFI@Grupo Aval.oplx/__changelog.xml",
+		"/Users/swkrause/Dropbox/00 Aval/AFI@Grupo Aval.oplx/__TOC.xml",
+		"/Users/swkrause/Dropbox/00 Aval/AFI@Grupo Aval.oplx/Actual.xml",
+		"/Users/swkrause/home/cfgen/.git/COMMIT_EDITMSG",
+		"/Users/swkrause/home/asteroids/.git/COMMIT_EDITMSG",
+		"/Users/swkrause/home/asteroids/.git/MERGE_MSG",
+		"/Users/swkrause/home/asteroids/game.js",
+		"/Users/swkrause/home/asteroids/ipad.js",
+		"/Users/swkrause/home/asteroids/README.md",
+		"/Users/swkrause/home/asteroids/vector_battle_regular.typeface.js",
+		"/Users/swkrause/home/cfgen/pulseapp.imports-template.csv",
+		"/Users/swkrause/.bash_profile",
+		"/Users/swkrause/home/scripts/wipe_casandra.sh",
+		"/Users/swkrause/.ssh/known_hosts",
+		"/Users/swkrause/home/keys/credentials.csv",
+		"/Users/swkrause/.profile",
+		"/Users/swkrause/home/GettingStarted.java",
+		"/Users/swkrause/Downloads/RDOTE_V3/exampleDatasets/culture.sql"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"",
+			"fragments"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
